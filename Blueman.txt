@@ -1,0 +1,2 @@
+sudo apt update
+sudo apt install blueman bluez bluez-cups bluez-obexd pulseaudio
